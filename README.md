@@ -18,6 +18,10 @@ Below is a preview of the project:
 
 ![](images/img1.png)
 
+This is a version of one of the plots I create in the project. This takes record temperature mins and maxes and compares them to a specific city and day of the year.
+
+------------------------------------------------------------------------------------------------
+
 ![](images/img2.png)
 
 ![](images/img3.png)
