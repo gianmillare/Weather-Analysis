@@ -30,6 +30,8 @@ This chart shows the changes of yearly temperatures between the years 1910-2019.
 
 ![](images/img3.png)
 
+A quick look at the temperatures of North Carolina, Oregon, Iowa, and Florida.
 
+------------------------------------------------------------------------------------------------
 
 ![](images/img4.png)
