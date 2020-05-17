@@ -24,6 +24,12 @@ This is a version of one of the plots I create in the project. This takes record
 
 ![](images/img2.png)
 
+This chart shows the changes of yearly temperatures between the years 1910-2019. More versions of this plot are created for other cities.
+
+------------------------------------------------------------------------------------------------
+
 ![](images/img3.png)
+
+
 
 ![](images/img4.png)
