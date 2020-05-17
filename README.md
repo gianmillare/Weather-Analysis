@@ -37,3 +37,7 @@ A quick look at the temperatures of North Carolina, Oregon, Iowa, and Florida.
 ![](images/img4.png)
 
 A quick look at the temperatures of California, New York, Hawaii, and Texas.
+
+------------------------------------------------------------------------------------------------
+
+For more data analysis projects, visit my website http://gianmillare.io/
