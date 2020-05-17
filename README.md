@@ -1,5 +1,6 @@
 # Weather-Analysis
 
+View project --> https://nbviewer.jupyter.org/github/gianmillare/Weather-Analysis/blob/master/weather_analysis.ipynb
 Analyzing the weather and climate patterns using data from https://www.ncdc.noaa.gov/cdo-web/search?datasetid=GHCND
 Inspired by Michele Vallisneri and LinkedIn Learning's 'Python Data Analysis' Course.
 
